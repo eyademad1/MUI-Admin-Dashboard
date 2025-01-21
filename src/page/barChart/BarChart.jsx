@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import Bar from "./bar";
+import Bar from "./Bar";
 import Header from "../../components/Header"
 
 
