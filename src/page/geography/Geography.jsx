@@ -1,4 +1,4 @@
-import Geo from "./geo"
+import Geo from "./Geo"
 import Header from "../../components/Header"
 import { Box } from "@mui/material"
 
